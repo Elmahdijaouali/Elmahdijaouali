@@ -62,4 +62,3 @@ Full Stack Developer passionate about building modern web applications and learn
 
 ---
 
-⭐️ From [ELMAHDI JAOUALI](https://github.com/Elmahdijaouali)
