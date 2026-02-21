@@ -49,11 +49,6 @@ Full Stack Developer passionate about building modern web applications and learn
 - **Java Intermediate** - SoloLearn (September 2025)
 - **JavaScript Essentials 1** - Cisco Networking Academy (May 2024)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmahdijaouali&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elmahdijaouali&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 
